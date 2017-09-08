@@ -1,0 +1,3 @@
+# algebra-algorithm-JosephWashington
+algebra-algorithm-JosephWashington created by GitHub Classroom
+{"Attachments":[{"ParentItemId":"AAMkAGViNGRhZWUzLWJiYjctNGU0Mi04OTgyLWNiMTU4ODRkOGY4YgBGAAAAAABIM74f2RsoSokpZ0ypgf4+BwAzjmhOMaWUQofcWKDE4gBoATK6oUAqAAD47sGOsd04RKu4g+nzpqPfAAAVNq3NAAA=","IsAttachmentItemAttachment":false,"__type":"ItemIdAttachment:#Exchange","AttachmentIdToAttach":"AAMkAGViNGRhZWUzLWJiYjctNGU0Mi04OTgyLWNiMTU4ODRkOGY4YgBGAAAAAABIM74f2RsoSokpZ0ypgf4+BwAzjmhOMaWUQofcWKDE4gBoATK6oUAqAAD47sGOsd04RKu4g+nzpqPfAAAVNq3NAAABEgAQAOmyTd37KXVFnrYM763yjZg=","Name":"Note Sep 7, 2017.pdf","IsInline":false}]}
